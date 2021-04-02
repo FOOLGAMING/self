@@ -1,0 +1,13 @@
+{
+    "token": "TOKEN HERE",
+    "prefix": ".",
+    "id": "609629575143620608",
+    "channeln": ["Slayer Runs all", "Slayer Beamed Yoi"],
+    "servername": "Slayer runs cord",
+    "rolenames": ["Beamed By Slayer", "He runs cord"],
+    "rolecolors": ["743dc0", "49c03d", "cc1b1b", "151212", "f47fff", "d9643b", "a81e7f", "3522c9", "8e63df", "ff60f0", "584b1a", "7b83be", "775089445904187423", "4836eb", "53cde0", "502382", "0c9f39", "033938", "c6dcca"],
+    "messagespam": ["Slayer Made this @everyone", "@everyone SLAYER RUNS YOU"],
+    "activity": "dnd = do not disturb  | Invinsible = Invisible | idle = idle | online = online",
+    "statustype": "STREAMING",
+    "status": "Status here"
+}
